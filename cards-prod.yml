@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related production APIs  using github"
+  message: "Welcome to Bank cards related prod APIs  using github"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@v.com"
