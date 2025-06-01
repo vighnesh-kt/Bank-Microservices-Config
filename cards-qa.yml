@@ -3,7 +3,11 @@ build:
   version: "2.0"
 
 cards:
+<<<<<<< HEAD
   message: "Welcome to Bank cards related QA APIs using github "
+=======
+  message: "Welcome to Bank cards related QA APIs "
+>>>>>>> 9a02434 (add)
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@v.com"

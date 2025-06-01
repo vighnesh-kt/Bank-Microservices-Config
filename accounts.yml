@@ -3,7 +3,11 @@ build:
   version: "3.0"
 
 accounts:
+<<<<<<< HEAD
   message: "Welcome to Bank accounts related local APIs  using github"
+=======
+  message: "Welcome to Bank accounts related local APIs "
+>>>>>>> 9a02434 (add)
   contactDetails:
     name: "John Doe - Developer"
     email: "john@v.com"
