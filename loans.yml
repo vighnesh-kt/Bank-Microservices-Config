@@ -4,18 +4,10 @@ build:
   version: "3.0"
 
 loans:
-<<<<<<< HEAD
   message: "Welcome to Bank loans related local APIs using github"
-=======
-  message: "Welcome to Bank loans related local APIs "
->>>>>>> 9a02434 (add)
   contactDetails:
     name: "John Doe - Developer"
     email: "john@v.com"
   onCallSupport:
     - (555) 555-1234
-<<<<<<< HEAD
     - (555) 523-1345
-=======
-    - (555) 523-1345
->>>>>>> 9a02434 (add)

@@ -3,7 +3,6 @@ build:
   version: "1.0"
 
 loans:
-<<<<<<< HEAD
   message: "Welcome to Bank loans related production APIs  using github"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
@@ -11,12 +10,4 @@ loans:
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
-=======
-  message: "Welcome to Bank loans related prod APIs "
-  contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@v.com"
-  onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
->>>>>>> 9a02434 (add)
+

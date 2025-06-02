@@ -3,18 +3,10 @@ build:
   version: "1.0"
 
 cards:
-<<<<<<< HEAD
   message: "Welcome to Bank cards related prod APIs  using github"
-=======
-  message: "Welcome to Bank cards related prod APIs "
->>>>>>> 9a02434 (add)
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@v.com"
   onCallSupport:
     - (453) 392-4829
-<<<<<<< HEAD
     - (236) 203-0384
-=======
-    - (236) 203-0384
->>>>>>> 9a02434 (add)
